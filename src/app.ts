@@ -10,7 +10,7 @@ import Logger from './loaders/logger';
 async function startServer() { 
   const app = express();
 
-  /** Just a test bla 123456 
+  /**  
    * 
    * A little hack here
    * Import/Export can only be used in 'top-level code'
